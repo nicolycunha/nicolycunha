@@ -56,5 +56,7 @@ Here are some ideas to get you started:
 
 GitHub Infos 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nicolycunha)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycunha&layout=compact)](https://github.com/nicolycunha/github-readme-stats)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nicolycunha&theme=radical&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycunha&layout=compact&theme=radical&show_icons=true)](https://github.com/nicolycunha/github-readme-stats)
+
