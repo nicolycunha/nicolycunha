@@ -52,3 +52,8 @@ Here are some ideas to get you started:
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 <br/>
+
+
+GitHub Infos 
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nicolycunha)
