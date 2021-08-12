@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-GitHub Infos 
+**GitHub Infos** 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nicolycunha&theme=radical&show_icons=true)
 
