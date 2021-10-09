@@ -1,7 +1,7 @@
 
 # Oi, prazer em conhecê-lo(a) 👋
 
-👩‍💻 Meu nome é Nicoly, sou Desenvolvedora Web no Instituto Tecnológico utilizando .NET e JQuery.
+👩‍💻 Meu nome é Nicoly, sou Analista Desenvolvedora na Muralis Assessoria e Tecnologia.
 
 🎓 Estou no 6º semestre do curso de Gestão de TI através da FATEC Itaquaquecetuba.
 
@@ -12,12 +12,12 @@
 
 ### Onde me encontrar:
 <div>
-  <a href="https://www.linkedin.com/in/nicoly-oliveira-da-cunha/">
-    <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-  </a>
-  <a href="mailto:nicolyoliveiradacunha@hotmail.com">
-    <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-  </a>
+<a href = "mailto:nicolyoliveiradacunha.2001@gmail.com">
+	<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/nicoly-oliveira-da-cunha/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 </div>
 <br/>
 
