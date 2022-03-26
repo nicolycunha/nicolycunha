@@ -3,9 +3,9 @@
 
 👩‍💻 Meu nome é Nicoly, sou Analista Desenvolvedora na Muralis Assessoria e Tecnologia.
 
-🎓 Estou no 6º semestre do curso de Gestão de TI através da FATEC Itaquaquecetuba.
+🎓 Sou formada em Gestão de TI através da FATEC Itaquaquecetuba.
 
-🧠 Atualmente estou estudando as linguagens Typescript, ReactJS e Angular com o objetivo de melhorar meu código de maneira limpa.
+🧠 Atualmente estou estudando Design UX/UI e aprimorando meus conhecimento em JavaScript e front-end com o objetivo de melhorar meu código de maneira limpa.
 
 <img align="right" height="250em" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1629894073019.png">
 
