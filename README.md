@@ -54,10 +54,8 @@
 
 ### Informações do GitHub
 
-<div>
+<div >
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolycunha&theme=radical&show_icons=true">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolycunha&layout=compact&theme=radical&show_icons=true)](https://github.com/nicolycunha/github-readme-stats">  
 </div>  
-
-![Snake animation](https://github.com/nicolycunha/nicolycunha/blob/output/github-contribution-grid-snake.svg)
 
